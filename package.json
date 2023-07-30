@@ -1,0 +1,23 @@
+{
+  "name": "project_by_samuli_kalliomaki",
+  "version": "1.0.0",
+  "description": "Best",
+  "scripts": {
+    "install": "cd client && npm install",
+    "dev:client": "cd client && npm start",
+    "preinstall": "cd server && npm install",
+    "dev:server": "cd server && npm run dev",
+    "build": "cd client && npm run build",
+    "dev": "nodemon ./bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
