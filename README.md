@@ -1,16 +1,10 @@
 # About this project
 
-This project was made for "CT30A3204 Advanced Web Applications" course taught by LUT. It is site where user can post posts, comments and likes. It was made using:
+This project was made for "CT30A3204 Advanced Web Applications" course taught by LUT. It is a site where user can post posts, comments and likes. It was made using:
 
-React, ExpressJs, NodeJs, Materialize, MongoDB
+React, ExpressJs, NodeJs, Materialize and MongoDB
 
 Among few other packages which can be found from package.json files under "dependencies" categories.
-
-## Technology Choices
-
-To be completely honest, they were all I knew about. I did not have time to look into much "extra" so to speak, working full time and managing the course took everything. So I went with the technologies that were introduced during the course.
-
-So to answer the question: There was not a "expert" idea why I chose anything. I chose what I knew best at this point.
 
 ## Getting Started
 
